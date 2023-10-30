@@ -6,14 +6,6 @@ I'm a full stack developer specialized in pyhton, kvm, ssh connections, dokcer a
 
 
 
-## some things I've done..
-
-### model recognition:
-
-Any additional information goes here
-
-
-
 ## Technologies
 
 **Client:** React, kotlin
